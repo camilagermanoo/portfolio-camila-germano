@@ -85,5 +85,5 @@ export const AboutSection = () => {
         </div>
       </div>
     </section>
-  );
-};
+  )
+}
