@@ -4,7 +4,7 @@ import portfolio from "../images/portfolio.png"
 const projects = [
   {
     id: 1,
-    title: "SaaS Landing Page",
+    title: "Portfolio Pessoal",
     description: "Aplicação desenvolvida em React com Tailwind CSS, utilizando componentes reutilizáveis e layout responsivo. O projeto conta com animações, navegação fluida e organização modular do código.",
     image: portfolio,
     tags: ["React","TypeScript", "TailwindCSS"],
@@ -13,21 +13,21 @@ const projects = [
   },
   {
     id: 2,
-    title: "Orbit Analytics Dashboard",
+    title: "--",
     description:
-      "Interactive analytics dashboard with data visualization and filtering capabilities.",
+      "--",
     image: "/projects/project2.png",
-    tags: ["TypeScript", "D3.js", "Next.js"],
+    tags: ["---"],
     demoUrl: "#",
     githubUrl: "#",
   },
   {
     id: 3,
-    title: "E-commerce Platform",
+    title: "--",
     description:
-      "Full-featured e-commerce platform with user authentication and payment processing.",
+      "--",
     image: "/projects/project3.png",
-    tags: ["React", "Node.js", "Stripe"],
+    tags: ["---"],
     demoUrl: "#",
     githubUrl: "#",
   },
