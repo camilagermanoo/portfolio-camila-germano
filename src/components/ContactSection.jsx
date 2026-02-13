@@ -113,7 +113,7 @@ export const ContactSection = () => {
 
             <div className="pt-8">
               <h4 className="font-medium mb-4">Conecte-se comigo</h4>
-              <div className="flex space-x-4">
+              <div className="flex space-x-4 justify-center">
                 <a
                   href="https://www.linkedin.com/in/camila-rodrigues-93196a241/"
                   target="_blank"
