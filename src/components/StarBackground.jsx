@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react"
 
-export const StarBackgound = () => {
+export const StarBackground = () => {
     const [stars, setStars ] = useState([])
     const [meteors, setMeteors ] = useState([])
 
