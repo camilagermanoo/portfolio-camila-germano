@@ -36,6 +36,12 @@ export const AboutSection = () => {
                 Entrar em contato
               </a>
             </div>
+            <div className="flex flex-col sm:flex-row gap-4 pt-4 justify-center">
+              <a href="https://cursos.alura.com.br/user/camyrodrigues23/fullCertificate/a97d92599ddf5efdc7750d1b8bb227d1" className="cosmic-button">
+                {" "}
+                Meus certificados Alura
+              </a>
+            </div>
           </div>
 
           <div className="grid grid-cols-1 gap-6">
